@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Get in touch:
+- Website: [www.iminet.hu](https://www.iminet.hu/)
+- NuGet: [@iminet](https://www.nuget.org/profiles/iminet)
+- Flickr: [@imiphoto](https://www.flickr.com/photos/imiphoto/)
 <!--
 **iminet/iminet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
