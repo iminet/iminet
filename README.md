@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a software developer in Budapest, Hungary and I am working mostly with C#
+
 ### Get in touch:
 - Website: [www.iminet.hu](https://www.iminet.hu/)
 - NuGet: [@iminet](https://www.nuget.org/profiles/iminet)
