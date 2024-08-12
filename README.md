@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer in Budapest, Hungary and I am working mostly with C#
+I'm a software developer in Budapest, Hungary and I am programming mostly in C#
 
 ### Get in touch:
 - Website: [www.iminet.hu](https://www.iminet.hu/)
