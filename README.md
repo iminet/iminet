@@ -3,7 +3,7 @@
 I'm a software developer in Budapest, Hungary and I am programming mostly in C#
 
 ### Get in touch:
-- Website: [www.iminet.hu](https://www.iminet.hu/) (sorry, it's currently only in Hungarian)
+- Website: [www.iminet.hu](https://www.iminet.hu/) (sorry, it's currently in Hungarian only)
 - NuGet: [@iminet](https://www.nuget.org/profiles/iminet)
 - Flickr: [@imiphoto](https://www.flickr.com/photos/imiphoto/)
 <!--
