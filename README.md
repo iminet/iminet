@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer in Budapest, Hungary and I am programming mostly in C#
+I'm a software developer in Budapest, Hungary and I am coding mostly in C# with VsCode
 
 ### Get in touch:
 - Website: [www.iminet.hu](https://www.iminet.hu/) (sorry, it's currently in Hungarian only)
