@@ -2,6 +2,21 @@
 
 I'm a software developer in Budapest, Hungary and I am coding mostly in C# with VsCode
 
+⌨️ Programming mostly in C#
+
+📷 Hobby Photographer
+
+📱 iPhone user
+
+🥾 Urban Explorer
+
+---
+
+### My GitHub Page
+https://iminet.github.io
+
+---
+
 ### Get in touch:
 - Website: [www.iminet.hu](https://www.iminet.hu/) (sorry, it's currently in Hungarian only)
 - NuGet: [@iminet](https://www.nuget.org/profiles/iminet)
